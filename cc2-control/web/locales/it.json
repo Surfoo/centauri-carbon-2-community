@@ -907,11 +907,11 @@
   "updates.restarting": "CC2 Control si sta riavviando. Attendi l’esito finale.",
   "updates.local_file": "Carica un pacchetto firmato dal computer",
   "updates.verify_file": "Verifica pacchetto locale",
-  "updates.status": "Stato aggiornamento",
+  "updates.status": "Stato aggiornamento:",
   "updates.complete": "Completato",
   "updates.failed": "Fallito o interrotto. Potrebbe essere stata ripristinata la versione precedente; controlla il log dell’aggiornamento.",
   "updates.working": "Download, verifica o installazione in corso…",
   "updates.idle": "Inattivo",
-  "updates.selected": "Versione selezionata",
+  "updates.selected": "Versione selezionata:",
   "updates.reload": "Ricarica CC2 Control"
 }

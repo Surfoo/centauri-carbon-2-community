@@ -893,11 +893,11 @@
   "updates.restarting": "CC2 Control перезапускается. Дождитесь результата.",
   "updates.local_file": "Загрузить подписанный пакет с компьютера",
   "updates.verify_file": "Проверить локальный пакет",
-  "updates.status": "Состояние обновления",
+  "updates.status": "Состояние обновления:",
   "updates.complete": "Завершено",
   "updates.failed": "Ошибка или прерывание. Возможно, восстановлена предыдущая версия; проверьте журнал.",
   "updates.working": "Загрузка, проверка или установка…",
   "updates.idle": "Простой",
-  "updates.selected": "Выбранная версия",
+  "updates.selected": "Выбранная версия:",
   "updates.reload": "Перезагрузить страницу CC2 Control"
 }

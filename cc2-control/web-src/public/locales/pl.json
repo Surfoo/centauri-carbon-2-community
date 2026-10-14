@@ -907,11 +907,11 @@
   "updates.restarting": "CC2 Control uruchamia się ponownie. Poczekaj na wynik.",
   "updates.local_file": "Prześlij podpisany pakiet z komputera",
   "updates.verify_file": "Zweryfikuj pakiet lokalny",
-  "updates.status": "Stan aktualizacji",
+  "updates.status": "Stan aktualizacji:",
   "updates.complete": "Ukończono",
   "updates.failed": "Błąd lub przerwanie. Poprzednia wersja mogła zostać przywrócona; sprawdź dziennik.",
   "updates.working": "Pobieranie, weryfikacja lub instalacja…",
   "updates.idle": "Bezczynna",
-  "updates.selected": "Wybrana wersja",
+  "updates.selected": "Wybrana wersja:",
   "updates.reload": "Odśwież CC2 Control"
 }
